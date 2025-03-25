@@ -1,0 +1,8 @@
+pygame
+gymnasium
+stable-baselines3>=2.0
+torch
+numpy
+shimmy
+seaborn
+gym
